@@ -1,3 +1,4 @@
+#将椭圆归一化为圆
 from sklearn import preprocessing
 import numpy as np
 x=np.array([[1.,2.,0.],[2.,0.,1.]])
